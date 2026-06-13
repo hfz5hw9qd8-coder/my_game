@@ -1,0 +1,7 @@
+{
+  "include": ["*.py"],
+  "exclude": ["Sunnyside_World_ASSET_PACK_V2.1"],
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportMissingTypeStubs": "none"
+}
